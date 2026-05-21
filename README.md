@@ -26,3 +26,6 @@ Como contribuição ao projeto, fOI FEITO uma adaptação focada nas compradoras
 - ChatGPT Agents
 - Claude (Anthropic)
 - Python / Excel
+
+##Dashboard
+https://chatgpt.com/canvas/shared/6a0f64439ce881918ca8d4c7846a719d
